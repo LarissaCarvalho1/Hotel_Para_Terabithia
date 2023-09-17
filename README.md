@@ -1,2 +1,4 @@
 # Hotel_Para_Terabithia 🏨
-Programa feito com vários outros programas utilizando um conceito de software modulado, feito com partes independentes. O objetivo final é desenvolver uma plataforma que auxilie e facilite o trabalho dos funcionários do hotel.
+
+## Objetivo
+Desenvolver um software modular composto por módulos independentes, que foi construído a partir de diversos programas, com o propósito de satisfazer as necessidades e facilitar as tarefas dos colaboradores de um hotel. 
